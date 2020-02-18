@@ -1,0 +1,9 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Initializing 'OsmoniumSeeds.zs'...
+INFO: Adding mutation 'Osmonium Seeds = Ferranium Seeds + Lapender Seeds'
+INFO: Setting base block requirement for seed Osmonium Seeds to tile.OreBlock.name (BELOW)
+INFO: Initialized 'OsmoniumSeeds.zs'

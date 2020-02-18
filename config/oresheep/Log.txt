@@ -1,0 +1,57 @@
+
+Reading config file... 
+found oreGold!
+found oreIron!
+found oreCoal!
+found oreLapis!
+found oreDiamond!
+found oreRedstone!
+found oreRedstone!
+found oreEmerald!
+found appliedenergistics2.OreQuartz!
+found appliedenergistics2.OreQuartzCharged!
+found aroma1997sdimension:stickyOre!
+found blockCustomOre!
+found blockOreCopper!
+found blockOreTin!
+found blockOreUran!
+found blockOreLead!
+found for.resources!
+found for.resourceStorage!
+found thermalfoundation.ore!
+found brOre!
+found forestEye!
+found forestDrum!
+found corporeaFunnel!
+found corporeaInterceptor!
+found corporeaRetainer!
+found railcraft.ore!
+found chisel.stained_glass_forestry!
+found draconicevolution:draconiumOre!
+found draconicevolution:energyStorageCore!
+found gcBlockCore!
+found OreBlock!
+found salt!
+found pamcompressedsaltBlock!
+found ImmersiveEngineering.ore!
+found ore.berries.one!
+found ore.berries.two!
+found tconstruct.stoneore!
+found tconstruct.gravelore!
+found netherores.ore.0!
+found netherores.ore.1!
+found netherores.hellfish!
+found volcanicCoreBlock!
+found storagedrawersforestry.trim!
+found storagedrawersforestry.trim!
+Looking for hellrock: found!
+Looking for stairsStone: found!
+Looking for stoneSlab: found!
+Looking for button: found!
+Looking for pressurePlate: found!
+Looking for stonebrick: found!
+Looking for cobbleWall: found!
+Looking for stoneMoss: found!
+Looking for gravel: found!
+Looking for stonebricksmooth: found!
+Looking for stairsStoneBrickSmooth: found!
